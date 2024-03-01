@@ -59,6 +59,18 @@
             "date_numeric": false,
             "date_replace_slashes_with_dashes": false
           }
+        },
+        "description_Dh6wpp": {
+          "type": "description",
+          "settings": {
+            "description": ""
+          }
+        },
+        "description_aLBB4V": {
+          "type": "description",
+          "settings": {
+            "description": "<p>lroem<\/p>"
+          }
         }
       },
       "block_order": [
@@ -66,7 +78,9 @@
         "info_3YGFHi",
         "description_aERpEa",
         "product_title_AJbdCr",
-        "auction_pro_product_template_auction_iwkFFE"
+        "auction_pro_product_template_auction_iwkFFE",
+        "description_Dh6wpp",
+        "description_aLBB4V"
       ],
       "settings": {
         "heading": "About This Case"
