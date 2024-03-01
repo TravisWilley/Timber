@@ -60,16 +60,39 @@
             "date_replace_slashes_with_dashes": false
           }
         },
-        "description_Dh6wpp": {
-          "type": "description",
+        "product_title_93HQBg": {
+          "type": "product-title",
           "settings": {
-            "description": ""
+            "title": "<p>lorem<\/p>"
           }
         },
-        "description_aLBB4V": {
-          "type": "description",
+        "easy_content_builder_accordion_Xan7hh": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/accordion\/08c79414-ca28-4781-a647-2921b7943a0b",
           "settings": {
-            "description": "<p>lroem<\/p>"
+            "no_collapse": false,
+            "mul_open": false,
+            "title_size": "h4",
+            "text_size": "default",
+            "item1_title": "Shipping",
+            "item1_body": "<p>aslk;fnsdlknvoe;nbv;dofjnvsdaklnv;<\/p>",
+            "item2_title": "",
+            "item2_body": "",
+            "item3_title": "",
+            "item3_body": "",
+            "item4_title": "",
+            "item4_body": "",
+            "item5_title": "",
+            "item5_body": "",
+            "item6_title": "",
+            "item6_body": "",
+            "item7_title": "",
+            "item7_body": "",
+            "item8_title": "",
+            "item8_body": "",
+            "max_width": "1200",
+            "scrollspy": "n",
+            "margin": "medium",
+            "padding": "no"
           }
         }
       },
@@ -79,8 +102,8 @@
         "description_aERpEa",
         "product_title_AJbdCr",
         "auction_pro_product_template_auction_iwkFFE",
-        "description_Dh6wpp",
-        "description_aLBB4V"
+        "product_title_93HQBg",
+        "easy_content_builder_accordion_Xan7hh"
       ],
       "settings": {
         "heading": "About This Case"
