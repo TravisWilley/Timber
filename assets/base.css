@@ -3616,7 +3616,7 @@ details-disclosure > details {
   border-radius: 30px;
   background: #eeeeee8c;
   border: 2px solid #d6d6d6;
-  box-shadow: 2px 2px black;
+  box-shadow: 5px 5px grey;
 }
 .product--section-heading h2 {
   margin-top: 0;
