@@ -1,1 +1,143 @@
-{"sections":{"rich_text_ATnrLa":{"type":"rich-text","blocks":{"heading_FeEqPL":{"type":"heading","settings":{"heading":"A Marketplace To Bid On Fully-Signed Personal Injury Retainers","heading_size":"h1"}},"text_Y6jMjJ":{"type":"text","settings":{"text":"<p>All cases you see below are <em>fully-signed retainers. <\/em>That means the client has agreed to a full contigency fee and all necessary waivers for you to take on their case. And you can see all case details before you buy + the full call transcript<\/p>"}},"button_AFJAbY":{"type":"button","settings":{"button_label":"See Available Cases","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_FeEqPL","text_Y6jMjJ","button_AFJAbY"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-3","full_width":true,"padding_top":40,"padding_bottom":52}},"banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"scheme-3"}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":24,"columns_desktop":5,"color_scheme":"scheme-1","image_ratio":"portrait","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":0,"padding_bottom":60}},"1708785691278333c1":{"type":"apps","blocks":{"auction_pro_collection_auction_3HQcGd":{"type":"shopify:\/\/apps\/auction-pro\/blocks\/collection-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b","settings":{"date_locale":"","date_replace_slashes_with_dashes":false}}},"block_order":["auction_pro_collection_auction_3HQcGd"],"settings":{"include_margins":true}}},"order":["rich_text_ATnrLa","banner","product-grid","1708785691278333c1"]}
+{
+  "sections": {
+    "live_feed_66jnce": {
+      "type": "live-feed",
+      "blocks": {
+        "heading_hrEp6n": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Marketplace to Bid on Fully-Signed Personal Injury Retainers",
+            "heading_size": "h1"
+          }
+        },
+        "text_nKqxk3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_4Ln7wd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hrEp6n",
+        "text_nKqxk3",
+        "button_4Ln7wd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_ATnrLa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FeEqPL": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Marketplace To Bid On Fully-Signed Personal Injury Retainers",
+            "heading_size": "h1"
+          }
+        },
+        "text_Y6jMjJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All cases you see below are <em>fully-signed retainers. <\/em>That means the client has agreed to a full contigency fee and all necessary waivers for you to take on their case. And you can see all case details before you buy + the full call transcript<\/p>"
+          }
+        },
+        "button_AFJAbY": {
+          "type": "button",
+          "settings": {
+            "button_label": "See Available Cases",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FeEqPL",
+        "text_Y6jMjJ",
+        "button_AFJAbY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-3"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "1708785691278333c1": {
+      "type": "apps",
+      "blocks": {
+        "auction_pro_collection_auction_3HQcGd": {
+          "type": "shopify:\/\/apps\/auction-pro\/blocks\/collection-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b",
+          "settings": {
+            "date_locale": "",
+            "date_replace_slashes_with_dashes": false
+          }
+        }
+      },
+      "block_order": [
+        "auction_pro_collection_auction_3HQcGd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "live_feed_66jnce",
+    "rich_text_ATnrLa",
+    "banner",
+    "product-grid",
+    "1708785691278333c1"
+  ]
+}
