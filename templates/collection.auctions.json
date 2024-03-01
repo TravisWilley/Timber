@@ -78,8 +78,13 @@
         "column_KzgQAr",
         "column_gFwgEt"
       ],
+      "custom_css": [
+        ".multicolumn {background-color: #f6f6f6; margin-bottom: 5em;}",
+        ".multicolumn-card__info {text-align: center; font-size: 11px;}",
+        ".multicolumn-card__info p {font-weight: 600;}"
+      ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
