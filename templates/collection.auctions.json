@@ -42,48 +42,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_ATnrLa": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_FeEqPL": {
-          "type": "heading",
-          "settings": {
-            "heading": "A Marketplace To Bid On Fully-Signed Personal Injury Retainers",
-            "heading_size": "h1"
-          }
-        },
-        "text_Y6jMjJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>All cases you see below are <em>fully-signed retainers. <\/em>That means the client has agreed to a full contigency fee and all necessary waivers for you to take on their case. And you can see all case details before you buy + the full call transcript<\/p>"
-          }
-        },
-        "button_AFJAbY": {
-          "type": "button",
-          "settings": {
-            "button_label": "See Available Cases",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FeEqPL",
-        "text_Y6jMjJ",
-        "button_AFJAbY"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -135,7 +93,6 @@
   },
   "order": [
     "live_feed_66jnce",
-    "rich_text_ATnrLa",
     "banner",
     "product-grid",
     "1708785691278333c1"
