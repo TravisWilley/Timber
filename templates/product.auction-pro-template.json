@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "product_section_UjhewT": {
+      "type": "product-section",
+      "blocks": {
+        "links_6geGfC": {
+          "type": "links",
+          "settings": {
+            "link_title_1": "Call Transcript",
+            "url_1": "",
+            "link_title_2": "Signed Retainer",
+            "url_2": ""
+          }
+        },
+        "info_3YGFHi": {
+          "type": "info",
+          "settings": {
+            "question_1": "Type of Accident",
+            "answer_1": "Workers Comp",
+            "question_2": "Date of Accident",
+            "answer_2": "Feb 2, 2024",
+            "question_3": "Currently Represented By Attorney?",
+            "answer_3": "No",
+            "question_4": "Was The Client At Fault?",
+            "answer_4": "No"
+          }
+        },
+        "description_aERpEa": {
+          "type": "description",
+          "settings": {
+            "description": "<h1><strong>Summary Of Case Details<\/strong><\/h1><h2><strong>Specific Injuries:<\/strong><\/h2><p>Ed experienced a violent assault resulting in a broken nose, shattered cheekbones, a severely fractured jaw necessitating six hours of reconstructive surgery with the insertion of metal plates and screws, head contusions, and significant face lacerations.<\/p><p><\/p><h2><strong>Recovery and Impact: <\/strong><\/h2><p>The injuries led to a prolonged recovery period, during which Ed was unable to breathe, eat, or chew properly for two months, causing extensive physical discomfort and emotional distress.<\/p><h1><strong>Attacker Information<\/strong><\/h1><h2><strong>Assailant Profile:<\/strong> <\/h2><p>The attacker was a coworker of Ed's at the construction site. Following the assault, it was revealed that the individual had a mental breakdown and was apprehended by the police. The attacker's background included military service, which might have contributed to the situation's complexity.<\/p><p><\/p><ul><li><strong>Context of the Assault: <\/strong>The assault was unprovoked, with the attacker using a hard hat as a weapon against Ed. The incident lasted for about two minutes until it was broken up by others on the site, after which the assailant fled but was later arrested by law enforcement.<\/li><\/ul><h3><strong>Rationale for Legal Case<\/strong><\/h3><ul><li><strong>Date and Location of Incident:<\/strong> The assault occurred on November 20th at a state university camp in Queens, New York, while Ed was working on an OSHA city job project.<\/li><li><strong>Employment Status:<\/strong> Ed was hired as a private consultant and contracted on a 1099 basis, indicating he was an independent contractor specializing in site safety.<\/li><li><strong>Direct Workplace Violence:<\/strong> The assault took place in a professional setting, highlighting a severe breach of workplace safety and security measures. <\/li><li><strong>Employer and Site Safety Failures:<\/strong> As a consultant hired for site safety, the irony of Ed becoming a victim of workplace violence underscores significant lapses in safety protocols and employer negligence.<\/li><li><strong>Inadequate Response from Authorities: <\/strong>The perceived inaction and mishandling of the case by the district attorney's office, combined with a lack of proper investigation and follow-up, suggest institutional negligence.<\/li><li><strong>Absence of Employer Support: <\/strong>Ed's employers and the contracting entity failed to provide adequate support, both medically and legally, post-assault, indicating a failure in their duty of care towards an injured contractor.<\/li><li><strong>Systemic Legal and Operational Failures: <\/strong>The broader systemic issues, including failures in due process, lack of accountability for the assailant, and mishandling of Ed's legal pursuit for justice, form a substantial basis for his case.<\/li><\/ul><h3><strong>Additional Relevant Details<\/strong><\/h3><ul><li><strong>Legal and Medical Proceedings:<\/strong> Despite the filing of criminal charges against the attacker, Ed is dissatisfied with the legal process's progress and the lack of accountability enforced upon his attacker and the entities involved.<\/li><li><strong>Professional and Financial Impact: <\/strong>The assault and subsequent injuries have significantly affected Ed's ability to work, especially as an independent contractor reliant on physical presence and capability. This has led to a loss of income and heightened financial strain during the recovery period.<\/li><li><strong>Personal and Emotional Toll:<\/strong> Beyond the physical injuries, the incident has had a profound effect on Ed's mental health, emotional well-being, and his role as a provider and parent, exacerbating the stress and challenges of his recent divorce.<\/li><li><strong>Systemic and Procedural Critique:<\/strong> Ed's criticisms extend to the broader systemic issues within New York's construction industry and legal system, including the hiring practices that allowed his attacker to be employed on-site without adequate vetting or identification checks.<\/li><\/ul>"
+          }
+        },
+        "product_title_AJbdCr": {
+          "type": "product-title",
+          "settings": {
+            "title": "<p><strong>Workers Comp - New York: <\/strong>Assault & Injury at NY Worksite. Severe Facial Trauma, Surgery Required. Major Safety Oversight, Legal Action Pending. Detailed Evidence, Medical & Witness Support.<\/p>"
+          }
+        },
+        "auction_pro_product_template_auction_iwkFFE": {
+          "type": "shopify:\/\/apps\/auction-pro\/blocks\/product-template-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b",
+          "settings": {
+            "timer_bold": false,
+            "timer_font_size": 18,
+            "timer_colour": "#dd1d1d",
+            "end_date_font_size": 16,
+            "current_bid_font_size": 18,
+            "bid_link_colour": "#136af6",
+            "current_bid_btn_colour": "#0053a0",
+            "current_bid_input_size": 15,
+            "current_bid_border_radius": 3,
+            "buy_it_now_font_size": 16,
+            "buy_it_now_btn_colour": "#0053a0",
+            "buy_it_now_size": 15,
+            "buy_it_now_border_radius": 3,
+            "automatic_bid_font_size": 16,
+            "automatic_bid_colour": "#136af6",
+            "date_locale": "",
+            "date_numeric": false,
+            "date_replace_slashes_with_dashes": false
+          }
+        }
+      },
+      "block_order": [
+        "links_6geGfC",
+        "info_3YGFHi",
+        "description_aERpEa",
+        "product_title_AJbdCr",
+        "auction_pro_product_template_auction_iwkFFE"
+      ],
+      "settings": {
+        "heading": "About This Case"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "1708792641ce67b52a": {
+      "type": "apps",
+      "blocks": {
+        "easy_content_builder_section_title_8LNYrx": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/section-title\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "img_width": 200,
+            "img_height": 200,
+            "img_crop": "center",
+            "uk_text_align": "center",
+            "title": "Workers Comp - New York",
+            "title_size": "h1",
+            "tagline": "",
+            "tagline_uk_size": "small",
+            "description": "",
+            "description_uk_size": "default",
+            "btn_text": "",
+            "btn_url": "",
+            "btn_uk_color": "primary",
+            "btn_uk_size": "default",
+            "border_rounded": false,
+            "bg_color": "",
+            "max_width": "1200",
+            "scrollspy": "n",
+            "margin": "n",
+            "padding": "no"
+          }
+        },
+        "easy_content_builder_custom_html_QhTrme": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/custom-html\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "paragraph": "<h1>Access call transcript here: <a href=\"https:\/\/docs.google.com\/document\/d\/1dCFQ1Sygt_9ESx1KBK93tbisdsdzpN5XY4zmm2i_V6s\/edit\" target=\"_blank\" title=\"https:\/\/docs.google.com\/document\/d\/1dCFQ1Sygt_9ESx1KBK93tbisdsdzpN5XY4zmm2i_V6s\/edit\">Link<\/a><br\/><br\/>See signed retainer here: <a href=\"https:\/\/docs.google.com\/document\/d\/1dCFQ1Sygt_9ESx1KBK93tbisdsdzpN5XY4zmm2i_V6s\/edit\" title=\"https:\/\/docs.google.com\/document\/d\/1dCFQ1Sygt_9ESx1KBK93tbisdsdzpN5XY4zmm2i_V6s\/edit\">Link<\/a><\/h1>",
+            "html": "",
+            "custom_liquid": "",
+            "margin": "medium"
+          }
+        },
+        "easy_content_builder_section_settings_JhhbAW": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/section-settings\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "fullwidth": false,
+            "mw": "",
+            "mw_mobile": "",
+            "layout": "two",
+            "layout_mobile": "one",
+            "column_main": 50,
+            "column_gap": 0,
+            "row_gap": 0,
+            "bg_color": "",
+            "bg_image_repeat": "no",
+            "bg_image_position": "top",
+            "bg_image_width": 100,
+            "bg_parallax": "",
+            "mask_color": "",
+            "mask_opacity": 0.5,
+            "container_bg_color": "",
+            "container_border_radius": 0,
+            "text_color": "",
+            "pt": "50px",
+            "pb": "0",
+            "container_pt": "",
+            "container_pb": ""
+          }
+        },
+        "auction_pro_product_template_auction_AApmdc": {
+          "type": "shopify:\/\/apps\/auction-pro\/blocks\/product-template-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b",
+          "settings": {
+            "timer_bold": false,
+            "timer_font_size": 18,
+            "timer_colour": "#212b36",
+            "end_date_font_size": 16,
+            "current_bid_font_size": 18,
+            "bid_link_colour": "#136af6",
+            "current_bid_btn_colour": "#136af6",
+            "current_bid_input_size": 15,
+            "current_bid_border_radius": 3,
+            "buy_it_now_font_size": 16,
+            "buy_it_now_btn_colour": "#0053a0",
+            "buy_it_now_size": 15,
+            "buy_it_now_border_radius": 3,
+            "automatic_bid_font_size": 16,
+            "automatic_bid_colour": "#136af6",
+            "date_locale": "",
+            "date_numeric": false,
+            "date_replace_slashes_with_dashes": false
+          }
+        },
+        "easy_content_builder_custom_html_y8eNxW": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/custom-html\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "paragraph": "<h1><strong>Summary Of Case Details<\/strong><\/h1><h2><strong>Specific Injuries:<\/strong><\/h2><p>Ed experienced a violent assault resulting in a broken nose, shattered cheekbones, a severely fractured jaw necessitating six hours of reconstructive surgery with the insertion of metal plates and screws, head contusions, and significant face lacerations.<\/p><p><\/p><h2><strong>Recovery and Impact: <\/strong><\/h2><p>The injuries led to a prolonged recovery period, during which Ed was unable to breathe, eat, or chew properly for two months, causing extensive physical discomfort and emotional distress.<\/p><h1><strong>Attacker Information<\/strong><\/h1><h2><strong>Assailant Profile:<\/strong> <\/h2><p>The attacker was a coworker of Ed's at the construction site. Following the assault, it was revealed that the individual had a mental breakdown and was apprehended by the police. The attacker's background included military service, which might have contributed to the situation's complexity.<\/p><p><\/p><ul><li><strong>Context of the Assault: <\/strong>The assault was unprovoked, with the attacker using a hard hat as a weapon against Ed. The incident lasted for about two minutes until it was broken up by others on the site, after which the assailant fled but was later arrested by law enforcement.<\/li><\/ul><h3><strong>Rationale for Legal Case<\/strong><\/h3><ul><li><strong>Date and Location of Incident:<\/strong> The assault occurred on November 20th at a state university camp in Queens, New York, while Ed was working on an OSHA city job project.<\/li><li><strong>Employment Status:<\/strong> Ed was hired as a private consultant and contracted on a 1099 basis, indicating he was an independent contractor specializing in site safety.<\/li><li><strong>Direct Workplace Violence:<\/strong> The assault took place in a professional setting, highlighting a severe breach of workplace safety and security measures. <\/li><li><strong>Employer and Site Safety Failures:<\/strong> As a consultant hired for site safety, the irony of Ed becoming a victim of workplace violence underscores significant lapses in safety protocols and employer negligence.<\/li><li><strong>Inadequate Response from Authorities: <\/strong>The perceived inaction and mishandling of the case by the district attorney's office, combined with a lack of proper investigation and follow-up, suggest institutional negligence.<\/li><li><strong>Absence of Employer Support: <\/strong>Ed's employers and the contracting entity failed to provide adequate support, both medically and legally, post-assault, indicating a failure in their duty of care towards an injured contractor.<\/li><li><strong>Systemic Legal and Operational Failures: <\/strong>The broader systemic issues, including failures in due process, lack of accountability for the assailant, and mishandling of Ed's legal pursuit for justice, form a substantial basis for his case.<\/li><\/ul><h3><strong>Additional Relevant Details<\/strong><\/h3><ul><li><strong>Legal and Medical Proceedings:<\/strong> Despite the filing of criminal charges against the attacker, Ed is dissatisfied with the legal process's progress and the lack of accountability enforced upon his attacker and the entities involved.<\/li><li><strong>Professional and Financial Impact: <\/strong>The assault and subsequent injuries have significantly affected Ed's ability to work, especially as an independent contractor reliant on physical presence and capability. This has led to a loss of income and heightened financial strain during the recovery period.<\/li><li><strong>Personal and Emotional Toll:<\/strong> Beyond the physical injuries, the incident has had a profound effect on Ed's mental health, emotional well-being, and his role as a provider and parent, exacerbating the stress and challenges of his recent divorce.<\/li><li><strong>Systemic and Procedural Critique:<\/strong> Ed's criticisms extend to the broader systemic issues within New York's construction industry and legal system, including the hiring practices that allowed his attacker to be employed on-site without adequate vetting or identification checks.<\/li><\/ul>",
+            "html": "",
+            "custom_liquid": "",
+            "margin": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "easy_content_builder_section_title_8LNYrx",
+        "easy_content_builder_custom_html_QhTrme",
+        "easy_content_builder_section_settings_JhhbAW",
+        "auction_pro_product_template_auction_AApmdc",
+        "easy_content_builder_custom_html_y8eNxW"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1708792989abcaf145": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "product_section_UjhewT",
+    "main",
+    "related-products",
+    "1708792641ce67b52a",
+    "1708792989abcaf145"
+  ]
+}

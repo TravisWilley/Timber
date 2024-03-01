@@ -1,0 +1,159 @@
+{
+  "sections": {
+    "live_feed_66jnce": {
+      "type": "live-feed",
+      "blocks": {
+        "heading_hrEp6n": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Marketplace to Bid on Fully-Signed Personal Injury Retainers",
+            "heading_size": "h1"
+          }
+        },
+        "text_nKqxk3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All cases you see below are <em>fully-signed retainers. <\/em>That means the client has agreed to a full contigency fee and all necessary waivers for you to take on their case. And you can see all case details before you buy + the full call transcript<\/p>"
+          }
+        },
+        "button_4Ln7wd": {
+          "type": "button",
+          "settings": {
+            "button_label": "See Available Cases",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "All Cases",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hrEp6n",
+        "text_nKqxk3",
+        "button_4Ln7wd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_9jUGiQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qKY8gj": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KzgQAr": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gFwgEt": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qKY8gj",
+        "column_KzgQAr",
+        "column_gFwgEt"
+      ],
+      "custom_css": [
+        ".multicolumn {background-color: #f6f6f6; margin-bottom: 5em;}",
+        ".multicolumn-card__info {text-align: center; font-size: 11px;}",
+        ".multicolumn-card__info p {font-weight: 600;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-3"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "1708785691278333c1": {
+      "type": "apps",
+      "blocks": {
+        "auction_pro_collection_auction_3HQcGd": {
+          "type": "shopify:\/\/apps\/auction-pro\/blocks\/collection-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b",
+          "settings": {
+            "date_locale": "",
+            "date_replace_slashes_with_dashes": false
+          }
+        }
+      },
+      "block_order": [
+        "auction_pro_collection_auction_3HQcGd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "live_feed_66jnce",
+    "multicolumn_9jUGiQ",
+    "banner",
+    "product-grid",
+    "1708785691278333c1"
+  ]
+}
