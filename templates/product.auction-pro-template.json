@@ -45,7 +45,7 @@
             "timer_colour": "#dd1d1d",
             "end_date_font_size": 16,
             "current_bid_font_size": 18,
-            "bid_link_colour": "#dd1d1d",
+            "bid_link_colour": "#136af6",
             "current_bid_btn_colour": "#0053a0",
             "current_bid_input_size": 15,
             "current_bid_border_radius": 3,
